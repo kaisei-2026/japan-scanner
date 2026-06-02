@@ -118,8 +118,8 @@ with st.sidebar:
         st.warning("未接続 - Secretsに設定してください")
         with st.expander("設定方法"):
             st.code("""# Streamlit Cloud > Settings > Secrets
-JQUANTS_EMAIL = "your@email.com"
-JQUANTS_PASSWORD = "yourpassword"
+JQUANTS_EMAIL = "tomimizu.s@email.com"
+JQUANTS_PASSWORD = "#fnEsjdzH@y2SKu"
 """)
 
     st.divider()
